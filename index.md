@@ -51,26 +51,26 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
+      - title: Feasibility Studies
         text: This is a very short project description.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      - title: Business Case & Project Definitions
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
+      - title: Federal Infrastructure Funding Applications
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
+      - title: Strategic and Long-Term Asset Planning
         text: This is a very short project description.
         icon: 4.jpg
         url: '#'
-      - title: Project 5
+      - title: Public Private Partnerships
         text: This is a very short project description.
         icon: 5.jpg
         url: '#'

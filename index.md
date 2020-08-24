@@ -6,42 +6,55 @@ header:
     Cintra Consulting is a management consulting firm whose focus is the planning, justifying, and setting priorities for, capital projects and programs. We help public, private and non-profit sector clients assess their short and long term infrastructure needs. We help turn such needs into options, then solutions, and finally reality.
   action: # action button is optional
     label: Find Out More
-    url: '#about'
+    url: '#home'
 
 
 sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: What can Cintra do for you?
+    text: Are you a public sector client who will receive funding under the New Building Canada Fund or another provincial or federal program? Are you required to provide supporting documentation to senior government agencies before this funding will be committed, during project implementation and post completion?
+Cintra Consulting is ready to provide expertise in guiding development of or completing a government supplied business case template or related document for this new funding program.
+
+Are you a private company representative facing difficult capital investment decisions? Do you know what is needed, but could use a fresh set of eyes on it and require the supporting material to convince management or the Board of Directors?
+Cintra Consulting can provide and document a rationale approach to investment decisions.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Services
+        url: '#services'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: We offer the following
     services:
-      - title: Sturdy Templates
+      - title: Capital Program Development
         text: Our templates are updated regularly so they don't break.
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
+      - title: Capital Project Development
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
-      - title: Up to Date
+      - title: Federal and Provincial business case document review and preparation
         text: We update dependencies to keep things fresh.
         icon: fa-laptop-code
-      - title: Made with Love
+      - title: Project Definition Reports
         text: You have to make your websites with love these days!
         icon: fa-heart
-      - title: Other 1
+      - title: Project Monitoring and Update Reports
         text: Some not-so long text here.
         icon: fa-heart
-      - title: Other 2
+      - title: Public and Stakeholder Consultation
+        text: Some not-so long text here.
+        icon: fa-heart
+      - title: Consultant and Contractor Oversight
+        text: Some not-so long text here.
+        icon: fa-heart
+      - title: Project Closeout Reports
+        text: Some not-so long text here.
+        icon: fa-heart
+      - title: Non-Profit Grant Funding Applications
         text: Some not-so long text here.
         icon: fa-heart
 
@@ -73,10 +86,10 @@ sections:
         text: This is a very short project description.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+#      - title: Project 6
+#        text: This is a very short project description.
+#        icon: 6.jpg
+#        url: '#'
 
   - type: aside.html
     section_id: aside

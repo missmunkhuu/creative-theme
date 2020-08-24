@@ -3,8 +3,7 @@ layout: home
 header:
   title: Your Favorite Source of Free Bootstrap Themes
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Cintra Consulting is a management consulting firm whose focus is the planning, justifying, and setting priorities for, capital projects and programs. We help public, private and non-profit sector clients assess their short and long term infrastructure needs. We help turn such needs into options, then solutions, and finally reality.
   action: # action button is optional
     label: Find Out More
     url: '#about'

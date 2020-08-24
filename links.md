@@ -2,7 +2,7 @@
 layout: page
 title: Links
 #background_style: bg-info
-background_image: url('assets/img/leather_header.jpg')
+background_image: url('assets/img/backgrounds/leather_header.jpg')
 # Add a link to the the top menu
 menus:
   header:
